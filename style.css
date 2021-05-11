@@ -1,0 +1,8 @@
+#svg{
+    height:550px;
+    width:550px;
+}
+circle{
+    stroke-width: 1px;
+    opacity: 50%;
+}
